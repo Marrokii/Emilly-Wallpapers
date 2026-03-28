@@ -1,0 +1,287 @@
+{
+  "wallpapers": [
+    {
+      "id": "1",
+      "name": "Emilly 1",
+      "category": ["all", "hot"],
+      "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEhJSYVBRzqes1pxY8-1vR1CkNmePxyYdVSia8LAKrDjTZgFaWC5t8hyQs9GyTjR8JGXy5M5RYRfc8jgH1PHeT39weopc2qoEolh4kGeEmaUmaf4SgN6DQHqM75w0L2NfSmH9WYTqZpHidNbL21P5sdpXSZPNFrS2f-3fGvg6WfTey4vuQAkwUIpyj0YMDzf",
+      "tags": ["sunset", "orange", "sky"]
+    },
+    {
+      "id": "2",
+      "name": "Emilly 2",
+      "category": ["all", "hot"],
+      "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEi0bqHxRN5jbwq49vmhSx6txKK_iuPcJuSkVVUU8fzqzjKT-bWaCGAIyujwMwN6Xo3BEDxfQAr0jAw7snLdbJ-HELJx8kFKdk965a7CiOJkn2OUGvTv9qSgo0uhCYls0xEOP9OSYFf2i_T3qe6gJvoIyL9JnmbcY-_oXgCOB2Ec154UJfBOKLfqb0ZUcH6O",
+      "tags": ["beach", "summer", "sun"]
+    },
+    {
+      "id": "3",
+      "name": "Emilly 3",
+      "category": ["all", "hot"],
+      "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEh-sjsKhu0wjQwBldV8czCCrQlztV_63k1MC_naLdV4jiRYdTnYrLk0czNz9U7v-tK-WxHg7aCSZYE1HUWHEqF3o0YbkjAH-_vvJz7pEIp6sOLXc4AF09QcI5krgMHXnZvE3qQkmU7d7prMtTw9QY38mnpMEKb6Jh-AZqp9faBsGxdsRMsz4xetHeN32ACG",
+      "tags": ["desert", "heat", "sand"]
+    },
+    {
+      "id": "4",
+      "name": "Emilly 4",
+      "category": ["all", "hot"],
+      "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEhzNAPn9IUfNHGVQS5H-09zlggwBfv6m7S512bxAgA46NYhejlUEPnT5GfWT5atsIMPT6TjRY6hfKK3lYdNpgJw8dNZWAWsxGPUsuiO6hxBspL_AuFae2qIZNnVzfjC2sSH211fyP3A-Uk1Xgny-HqD4o7MqpFrq7cSgGU1TFOZK-jmnlwn8FUX05MFNs0x",
+      "tags": ["fire", "warm", "red"]
+    },
+    {
+      "id": "5",
+      "name": "Emilly 5",
+      "category": ["all", "hot"],
+      "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEgXb49hW2suGVaEADBHVEZjHpF-SZLGqFdl6NUTqntlAGlEP0SnVSvflDXT6WNSr9macOpRpZg4nSPohDpN_1u6ZVQd_iLm58AxchbrqBIHMdZxEtwC-dsLQZPTzO0JeKoBUm32LibUN5aaOo24o49t7kGfDMPTyKC_loHQamHMxXSLRMbsj18cEROgYb47",
+      "tags": ["tropical", "island", "blue"]
+    },
+    {
+      "id": "6",
+      "name": "Emilly 6",
+      "category": ["all", "hot"],
+      "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEiWWatawVKmioUkcXAFk-I307rnHoC2qC_aG7UbmaM8D3BWpgESXRYo027G_XQTPuuJP0LiK2onq3luDFraT6RFqBrvy7aAgnI_ETArNsrT_V4OrBTD7B9FWtnK_Hii8_TtJUBrxCuH9t_t7nbxutCwh7dqrvmb3KqI_Kc5I3cS4I7GkNe-YP3rWPEzaKDQ",
+      "tags": ["sunrise", "light", "gold"]
+    },
+    {
+      "id": "7",
+      "name": "Emilly 7",
+      "category": ["all", "hot"],
+      "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEjwylQXVYqEqD222LJ7l-iSg-jqhjrvl3a1YolVK8oN-6lGUBGPtVZ10eZCwurHOLUuvchd7Or1m_qiKH_2uq80eKI6X9JMjGIOwi7iWV5cVSejOcCVjQOZqVWO-nm1oU00skYTQ7QvwCoN4EAgErlHRYE_ZQpxDyEhdJYZvBzgnTMa7TftiPJFP4FJm1GB",
+      "tags": ["vacation", "sea", "waves"]
+    },
+    {
+      "id": "8",
+      "name": "Emilly 8",
+      "category": ["all", "hot"],
+      "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEip7tGeFHGEW6OeRbAJ5Sj1JUFzvBA1KdJlKPTbwsIH70t5IKzVdudalvrOM3J6ptu2_ykhkVZFuxY38ltPbqcDaFUnbch0PAuLVH-5uWO7QYqFugjQkK5ecZzXsSE-sSd2J8uqYkX2iqA5ZLi4-SU70C6UqgTALpH4-sjqTOhq1wd2ZV-mBZjtfCojUbES",
+      "tags": ["sky", "bright", "sun"]
+    },
+    {
+      "id": "9",
+      "name": "Emilly 9",
+      "category": ["all", "hot"],
+      "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEjMw81V54C4wLk1D8SuYpO_C_XAd5kpsK96lKBwE75xR2xStQo5LfTCK8LNOdO6FCnwxwuVb-km9aw9EzmkWbaeeCJd8J1mXkBtw1qxcv6CAkGAuxPC60YGvGuZgLJeGRx14r0VXVYKZDf0GNMwMbLAnoxqN_Io4KYt3u9CrTY6CVhVkZ1X504UBWKTuy-Y",
+      "tags": ["orange", "clouds", "light"]
+    },
+    {
+      "id": "10",
+      "name": "Emilly 10",
+      "category": ["all", "hot"],
+      "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEjCM_QPaqCrKtAQj0tdoKhfY6O_Z8naqbZwdtLIEiZwEnVapTegya6J-h_IcV1dycdYXICacBQVUH07RT4xOn6-yH8zRFgB0HAPvAN336wnQULg0zcd3J8bEw6kBac6RqsGPUG5aqlkaAwnnLctBPRe9QI7mKXMuD6NlisFPc1FHn3fdeuBiPazsc21Qs5c",
+      "tags": ["summer", "fun", "color"]
+    },
+
+    {
+      "id": "11",
+      "name": "Emilly 11",
+      "category": ["all", "autumn"],
+      "imageURL": "https://example.com/img11.jpg",
+      "tags": ["autumn", "leaves", "orange"]
+    },
+    {
+      "id": "12",
+      "name": "Emilly 12",
+      "category": ["all", "autumn"],
+      "imageURL": "https://example.com/img12.jpg",
+      "tags": ["forest", "trees", "yellow"]
+    },
+    {
+      "id": "13",
+      "name": "Emilly 13",
+      "category": ["all", "autumn"],
+      "imageURL": "https://example.com/img13.jpg",
+      "tags": ["leaf", "nature", "brown"]
+    },
+    {
+      "id": "14",
+      "name": "Emilly 14",
+      "category": ["all", "autumn"],
+      "imageURL": "https://example.com/img14.jpg",
+      "tags": ["park", "season", "fall"]
+    },
+    {
+      "id": "15",
+      "name": "Emilly 15",
+      "category": ["all", "autumn"],
+      "imageURL": "https://example.com/img15.jpg",
+      "tags": ["road", "leaves", "orange"]
+    },
+    {
+      "id": "16",
+      "name": "Emilly 16",
+      "category": ["all", "autumn"],
+      "imageURL": "https://example.com/img16.jpg",
+      "tags": ["tree", "gold", "season"]
+    },
+    {
+      "id": "17",
+      "name": "Emilly 17",
+      "category": ["all", "autumn"],
+      "imageURL": "https://example.com/img17.jpg",
+      "tags": ["nature", "wind", "leaf"]
+    },
+    {
+      "id": "18",
+      "name": "Emilly 18",
+      "category": ["all", "autumn"],
+      "imageURL": "https://example.com/img18.jpg",
+      "tags": ["forest", "path", "fall"]
+    },
+    {
+      "id": "19",
+      "name": "Emilly 19",
+      "category": ["all", "autumn"],
+      "imageURL": "https://example.com/img19.jpg",
+      "tags": ["autumn", "cozy", "season"]
+    },
+    {
+      "id": "20",
+      "name": "Emilly 20",
+      "category": ["all", "autumn"],
+      "imageURL": "https://example.com/img20.jpg",
+      "tags": ["brown", "leaf", "tree"]
+    },
+
+    {
+      "id": "21",
+      "name": "Emilly 21",
+      "category": ["all", "new"],
+      "imageURL": "https://example.com/img21.jpg",
+      "tags": ["abstract", "modern", "blue"]
+    },
+    {
+      "id": "22",
+      "name": "Emilly 22",
+      "category": ["all", "new"],
+      "imageURL": "https://example.com/img22.jpg",
+      "tags": ["minimal", "white", "simple"]
+    },
+    {
+      "id": "23",
+      "name": "Emilly 23",
+      "category": ["all", "new"],
+      "imageURL": "https://example.com/img23.jpg",
+      "tags": ["gradient", "blue", "soft"]
+    },
+    {
+      "id": "24",
+      "name": "Emilly 24",
+      "category": ["all", "new"],
+      "imageURL": "https://example.com/img24.jpg",
+      "tags": ["abstract", "future", "art"]
+    },
+    {
+      "id": "25",
+      "name": "Emilly 25",
+      "category": ["all", "new"],
+      "imageURL": "https://example.com/img25.jpg",
+      "tags": ["ui", "design", "modern"]
+    },
+    {
+      "id": "26",
+      "name": "Emilly 26",
+      "category": ["all", "new"],
+      "imageURL": "https://example.com/img26.jpg",
+      "tags": ["clean", "lines", "white"]
+    },
+    {
+      "id": "27",
+      "name": "Emilly 27",
+      "category": ["all", "new"],
+      "imageURL": "https://example.com/img27.jpg",
+      "tags": ["tech", "future", "dark"]
+    },
+    {
+      "id": "28",
+      "name": "Emilly 28",
+      "category": ["all", "new"],
+      "imageURL": "https://example.com/img28.jpg",
+      "tags": ["simple", "style", "modern"]
+    },
+    {
+      "id": "29",
+      "name": "Emilly 29",
+      "category": ["all", "new"],
+      "imageURL": "https://example.com/img29.jpg",
+      "tags": ["pattern", "light", "soft"]
+    },
+    {
+      "id": "30",
+      "name": "Emilly 30",
+      "category": ["all", "new"],
+      "imageURL": "https://example.com/img30.jpg",
+      "tags": ["fresh", "design", "clean"]
+    },
+
+    {
+      "id": "31",
+      "name": "Emilly 31",
+      "category": ["all", "trend"],
+      "imageURL": "https://example.com/img31.jpg",
+      "tags": ["city", "neon", "night"]
+    },
+    {
+      "id": "32",
+      "name": "Emilly 32",
+      "category": ["all", "trend"],
+      "imageURL": "https://example.com/img32.jpg",
+      "tags": ["cyber", "punk", "future"]
+    },
+    {
+      "id": "33",
+      "name": "Emilly 33",
+      "category": ["all", "trend"],
+      "imageURL": "https://example.com/img33.jpg",
+      "tags": ["aesthetic", "pink", "style"]
+    },
+    {
+      "id": "34",
+      "name": "Emilly 34",
+      "category": ["all", "trend"],
+      "imageURL": "https://example.com/img34.jpg",
+      "tags": ["dark", "vibe", "cool"]
+    },
+    {
+      "id": "35",
+      "name": "Emilly 35",
+      "category": ["all", "trend"],
+      "imageURL": "https://example.com/img35.jpg",
+      "tags": ["street", "fashion", "urban"]
+    },
+    {
+      "id": "36",
+      "name": "Emilly 36",
+      "category": ["all", "trend"],
+      "imageURL": "https://example.com/img36.jpg",
+      "tags": ["lights", "night", "city"]
+    },
+    {
+      "id": "37",
+      "name": "Emilly 37",
+      "category": ["all", "trend"],
+      "imageURL": "https://example.com/img37.jpg",
+      "tags": ["trend", "modern", "look"]
+    },
+    {
+      "id": "38",
+      "name": "Emilly 38",
+      "category": ["all", "trend"],
+      "imageURL": "https://example.com/img38.jpg",
+      "tags": ["vaporwave", "retro", "color"]
+    },
+    {
+      "id": "39",
+      "name": "Emilly 39",
+      "category": ["all", "trend"],
+      "imageURL": "https://example.com/img39.jpg",
+      "tags": ["glow", "style", "neon"]
+    },
+    {
+      "id": "40",
+      "name": "Emilly 40",
+      "category": ["all", "trend"],
+      "imageURL": "https://example.com/img40.jpg",
+      "tags": ["popular", "viral", "design"]
+    }
+  ]
+}
